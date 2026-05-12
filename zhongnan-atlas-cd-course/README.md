@@ -110,7 +110,7 @@
 ## 文件结构（你拿到手的东西）
 
 ```
-【skill】施工图设计中南标图集/
+zhongnan-atlas-cd-course/
 ├── README.md               ← 你正在看的这份说明
 ├── SKILL.md                ← AI 的"行为指令"（告诉 AI 怎么扮演前辈）
 └── references/             ← 6 本图集的文字索引

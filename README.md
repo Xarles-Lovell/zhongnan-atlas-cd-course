@@ -11,7 +11,7 @@
 在 Kiro 里一句话安装：
 
 ```
-安装 skill：https://github.com/你的用户名/zhongnan-atlas-cd-course
+安装 skill：https://github.com/Xarles-Lovell/zhongnan-atlas-cd-course
 ```
 
 Kiro 会自动克隆 `zhongnan-atlas-cd-course/` 文件夹（skill 本体）到你的工作区。安装后直接问施工图问题即可。
