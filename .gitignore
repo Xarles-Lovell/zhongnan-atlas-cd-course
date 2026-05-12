@@ -1,0 +1,14 @@
+# Kiro 本地配置
+/.kiro
+
+# OCR 识别的原始 json 结果（太大，且可以重新生成）
+OCR工具/识别结果/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
