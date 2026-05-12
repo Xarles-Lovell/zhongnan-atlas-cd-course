@@ -6,15 +6,15 @@
 
 ---
 
-## 快速安装（Kiro 用户）
+## 快速安装（AI 编程助手用户）
 
-在 Kiro 里一句话安装：
+如果你用的是 Kiro、Claude Code、Codex、Trae 等支持 skill/插件 安装的 AI 编程助手，直接在对话里说：
 
 ```
 安装 skill：https://github.com/Xarles-Lovell/zhongnan-atlas-cd-course
 ```
 
-Kiro 会自动克隆 `zhongnan-atlas-cd-course/` 文件夹（skill 本体）到你的工作区。安装后直接问施工图问题即可。
+工具会自动克隆 `zhongnan-atlas-cd-course/` 文件夹（skill 本体）到你的工作区。安装后直接问施工图问题即可。
 
 ---
 
