@@ -52,12 +52,12 @@
 │   ├── SKILL.md                 ← AI 行为指令
 │   ├── README.md                ← skill 使用说明
 │   └── references/              ← 6 本图集的文字索引（共 500 KB）
-│       ├── 中南15ZJ001-建筑构造用料做法.md   ⭐ 总做法表，最重要
-│       ├── 中南15ZJ201-平屋面.md
-│       ├── 中南15ZJ203-种植屋面.md
-│       ├── 中南15ZJ211-坡屋面.md
-│       ├── 中南15ZJ602-建筑节能门窗.md
-│       └── 中南15ZJ611-拉闸门和卷帘门建筑构造.md
+│       ├── 15ZJ001-JianZhuGouZaoYongLiaoZuoFa.md   ⭐ 总做法表，最重要
+│       ├── 15ZJ201-PingWuMian.md
+│       ├── 15ZJ203-ZhongZhiWuMian.md
+│       ├── 15ZJ211-PoWuMian.md
+│       ├── 15ZJ602-JianZhuJieNengMenChuang.md
+│       └── 15ZJ611-LaZhaMenHeJuanLianMenJianZhuGouZao.md
 │
 ├── 原图集/                      ← � 6 本 PDF 原件（补充材料，用来核对页码）
 │

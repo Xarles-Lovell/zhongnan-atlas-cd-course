@@ -104,12 +104,12 @@ zhongnan-atlas-cd-course/
 ├── README.md               ← 你正在看的这份说明
 ├── SKILL.md                ← AI 的"行为指令"（告诉 AI 怎么扮演前辈）
 └── references/             ← 6 本图集的文字索引
-    ├── 中南15ZJ001-建筑构造用料做法.md    （201 KB）⭐ 最重要，每次都带
-    ├── 中南15ZJ201-平屋面.md              （40 KB）
-    ├── 中南15ZJ203-种植屋面.md            （44 KB）
-    ├── 中南15ZJ211-坡屋面.md              （67 KB）
-    ├── 中南15ZJ602-建筑节能门窗.md        （105 KB）
-    └── 中南15ZJ611-拉闸门和卷帘门建筑构造.md （28 KB）
+    ├── 15ZJ001-JianZhuGouZaoYongLiaoZuoFa.md  （建筑构造用料做法）⭐ 最重要
+    ├── 15ZJ201-PingWuMian.md                   （平屋面）
+    ├── 15ZJ203-ZhongZhiWuMian.md               （种植屋面）
+    ├── 15ZJ211-PoWuMian.md                     （坡屋面）
+    ├── 15ZJ602-JianZhuJieNengMenChuang.md      （建筑节能门窗）
+    └── 15ZJ611-LaZhaMenHeJuanLianMenJianZhuGouZao.md （拉闸门和卷帘门）
 ```
 
 **总大小**：约 500 KB（原始 PDF 几百 MB → 压缩了 99%）

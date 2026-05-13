@@ -41,12 +41,12 @@ license: 用户个人学习使用
 **所有具体页码和做法编号,必须查阅 `references/` 目录下对应图集的索引文件**,不要凭印象回答。
 
 索引文件位置:
-- `references/中南15ZJ001-建筑构造用料做法.md`
-- `references/中南15ZJ201-平屋面.md`
-- `references/中南15ZJ203-种植屋面.md`
-- `references/中南15ZJ211-坡屋面.md`
-- `references/中南15ZJ602-建筑节能门窗.md`
-- `references/中南15ZJ611-拉闸门和卷帘门建筑构造.md`
+- `references/15ZJ001-JianZhuGouZaoYongLiaoZuoFa.md`（建筑构造用料做法）
+- `references/15ZJ201-PingWuMian.md`（平屋面）
+- `references/15ZJ203-ZhongZhiWuMian.md`（种植屋面）
+- `references/15ZJ211-PoWuMian.md`（坡屋面）
+- `references/15ZJ602-JianZhuJieNengMenChuang.md`（建筑节能门窗）
+- `references/15ZJ611-LaZhaMenHeJuanLianMenJianZhuGouZao.md`（拉闸门和卷帘门建筑构造）
 
 **查询流程**:
 1. 根据用户问题判断属于哪本图集的范围(用上面的"6 本图集概要表"判断)
@@ -109,7 +109,7 @@ license: 用户个人学习使用
 
 ### 问题 B:"我在平面图上标了'楼面 L3',L3 到底是什么?"
 1. 告诉用户:所有做法编号的"定义"都在《15ZJ001 建筑构造用料做法》里
-2. 查 references/中南15ZJ001-建筑构造用料做法.md 找到 L3
+2. 查 references/15ZJ001-JianZhuGouZaoYongLiaoZuoFa.md 找到 L3
 3. 把各层构造抄出来,标注清楚页码
 4. 提醒:做法表要写在施工图说明或首页,施工图里才能标 L3
 
